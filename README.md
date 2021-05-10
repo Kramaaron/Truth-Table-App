@@ -6,8 +6,11 @@
 +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
 
 --- TRUTH RUNES ---
+
 --- TABLE COMPANY PRODUCTIONS ---	               
+
 --- A Game App Project --- 	            
+
 _____________________________________________________________
 
 This Game Application is called “Truth Runes” that tackles the “truth table” topic. It is an executable file that when clicked, takes the user to the Title screen of the game. The game’s concept/theme is ‘retro runic with a mix of cyberpunk’. The Table Company team decided to design the game with a retro aesthetic vibe. The ‘runes’ represent the different logical operators and propositional variables. The programming language that we used is Java and the integrated development environment (IDE) for Java is Apache NetBeans through Jframe form. Aside from being a game app, Truth Runes also has a built-in truth table generator which allows users to construct truth tables based on the given propositional equation by the users.
